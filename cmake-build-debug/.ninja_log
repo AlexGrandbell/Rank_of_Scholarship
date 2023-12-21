@@ -1,0 +1,8 @@
+# ninja log v5
+2	407	1703050560166309703	CMakeFiles/Rank_of_Scholarship.dir/Integer.cpp.o	4a57d63ea5347f9
+0	57	1703148591637833950	build.ninja	122deae3edd07fa2
+2	464	1703067990985878328	CMakeFiles/Rank_of_Scholarship.dir/main.cpp.o	4e9b155c66102f36
+464	504	1703067991027210928	Rank_of_Scholarship	4bce10fd85779d7c
+2	362	1703050488636824570	CMakeFiles/Rank_of_Scholarship.dir/Student.cpp.o	3a8a8ff39cdb3db5
+2	338	1703050346745935711	CMakeFiles/Rank_of_Scholarship.dir/Tool.cpp.o	b5abb01474beaf51
+2	363	1703040162716186729	CMakeFiles/Rank_of_Scholarship.dir/Menu.cpp.o	b9d6588359388c87
