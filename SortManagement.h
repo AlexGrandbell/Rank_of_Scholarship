@@ -7,6 +7,7 @@
 
 #include "Tool.h"
 
+
 //从小到大排序
 template<class T>
 class SortManagement {
