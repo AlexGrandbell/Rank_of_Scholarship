@@ -38,9 +38,7 @@ public:
     int getRadix() {
         int max = 0;
         if (number>max) max = number;
-        if (chinese>max) max = chinese;
-        if (math>max) max = math;
-        if (english>max) max = english;
+        if (sum>max) max = sum;
         return max;
     };
 

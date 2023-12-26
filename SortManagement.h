@@ -311,9 +311,8 @@ vector<T> SortManagement<T>::radixSort() {
         rounds = max(rounds,t.getRounds());
         radix = max(radix,t.getRadix());
     }
-
     for (int round = 0; round < rounds; ++round) {
-        vector<vector<T>> buckets(radix+10);
+        vector<vector<T>> buckets(radix+5);
         //将元素放入桶中
         for (int i = 0; i < n; ++i) {
             int tSortNum = ts2[i].getRoundsOf(round);
